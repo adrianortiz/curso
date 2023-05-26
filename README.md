@@ -2,11 +2,11 @@
  Curso de Spring Boot
 
 **Características**
-* CRUD de Usuarios
-* Filtro de Usuario
+* CRUD de Productos
+* Filtro de Productos
 
 ### Requerimientos
 * Java 11
-* Springo Boot
+* Spring Boot
 * Maven
 * MySQL
